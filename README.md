@@ -1,7 +1,7 @@
 # Neural-Network Model to predict handwritten-numbers
 
 Steps to run this program
-1) Download Octave
+1) Download Octave (https://octave.org/download)
 2) Open Octave CLI
 3) Download my github repo and keep it in one suitable directory of your PC
 4) Use CD command in the octave CLI to get to that directory 
