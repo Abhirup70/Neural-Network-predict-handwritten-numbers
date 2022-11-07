@@ -11,4 +11,4 @@ Steps to run this program
 
 PS: If you want to test your own handwrittings do some changes in the mat files 
 
-Abhirup
+Abhirup Majumder
